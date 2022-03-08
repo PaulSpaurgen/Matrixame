@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matrixame%20/static/css/main.df8d4c03.css",
+    "main.js": "/Matrixame%20/static/js/main.d26ad1a5.js",
+    "index.html": "/Matrixame%20/index.html",
+    "main.df8d4c03.css.map": "/Matrixame%20/static/css/main.df8d4c03.css.map",
+    "main.d26ad1a5.js.map": "/Matrixame%20/static/js/main.d26ad1a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df8d4c03.css",
+    "static/js/main.d26ad1a5.js"
+  ]
+}
